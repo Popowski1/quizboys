@@ -1,0 +1,28 @@
+#start {
+  display:block;
+  text-align:center;
+
+
+}
+#timer {
+  position: fixed;
+  right: 10px;
+  top:0px;
+  
+
+}
+.qpack {
+  display:none;
+  text-align:center;
+
+}
+
+.feedback {
+  display:none;
+  text-align:center;
+
+
+}
+#done {
+  display:none;
+}
